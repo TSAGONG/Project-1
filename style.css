@@ -1,0 +1,15 @@
+/*canvas {
+  width: 91%;
+  height: 600px;
+  padding: 10px;
+  border: 25px dotted black;
+  margin: 0 auto;
+}
+*/
+
+#gameBoard {
+  width:100%;
+  height: 100%;
+  border: 2px solid red;
+}
+`
